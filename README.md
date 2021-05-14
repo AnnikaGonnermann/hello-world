@@ -1,2 +1,4 @@
 # hello-world
-this is to test out the Git functionalities || Annika
+Hi humans!
+##This is me doing changes!
+'haha
